@@ -18,6 +18,7 @@
 - 이동 : WASD
 - 회피 : SpaceBar
 - 아이템 퀵슬롯 : 1,2
+- 일시정지 및 설정 : Escape
 
 ## Project Key Features
 - [unity-excel-importer](https://github.com/mikito/unity-excel-importer)를 통해 엑셀 데이터 시트를 SO 데이터 파일로 변환 합니다.
